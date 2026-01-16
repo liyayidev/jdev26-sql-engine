@@ -28,7 +28,7 @@ A functional **Book Tracker** application that demonstrates architectural unders
 1. **Install Dependencies**
    ```bash
    git clone https://github.com/liyayidev/jdev26-sql-engine.git
-   cd jdev26-sql-engine
+   cd db-architect
    npm install
    ```
 
